@@ -45,6 +45,8 @@ Nous somme donc face à un problème de régression linéaire simple.
 
 ![creaModel](data/modelR.png)
 
+Le modèle est sauvegardé avant utilisation dans l'interface (voir: [model](saved_model.rda))
+
 - Propriétés et métriques du modèle:
 
 ![summaryModel](data/model_summary.png)
