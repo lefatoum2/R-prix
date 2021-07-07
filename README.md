@@ -55,7 +55,7 @@ Nous somme donc face à un problème de régression linéaire simple.
 
 ## 4. Interface Shiny
 
-Le code peut être trouvé dans le fichier `app.R`
+Le code peut être trouvé dans le fichier [app.R](app.R)
 
 ![shinyApp](data/app_shiny.png)
 
