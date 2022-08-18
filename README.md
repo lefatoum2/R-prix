@@ -1,5 +1,7 @@
 # Présentation Projet R + Shiny
 
+![img1](https://images.unsplash.com/photo-1499937405357-13aa5449e360?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+
 ## 1. Le dataset
 
 Il s'agit d'un ensemble de données créées à partir de données imaginaires de prix des logements en milieu urbain - Paris.   
